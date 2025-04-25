@@ -1,0 +1,6 @@
+streamlit
+pandas
+nltk
+google-api-python-client
+matplotlib
+scikit-learn
