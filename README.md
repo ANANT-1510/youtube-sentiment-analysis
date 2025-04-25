@@ -12,4 +12,4 @@ A Streamlit-based web app that analyzes YouTube comments and classifies them int
 
 ## 🚀 Run it
 ```bash
-streamlit run app.py
+streamlit run yt.py
